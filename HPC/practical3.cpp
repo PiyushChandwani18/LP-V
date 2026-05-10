@@ -52,7 +52,7 @@ int main() {
 /*
 To execute :
 
-g++ practical1.cpp -fopenmp
+g++ practical3.cpp -fopenmp
 ./a.out
 
 */
