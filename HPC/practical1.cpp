@@ -138,10 +138,11 @@ int main() {
 }
 
 
-//    to execute
-//    g++ practical1.cpp -fopenmp
-//    ./a.out
-
+/*
+To execute:
+    g++ practical1.cpp -fopenmp
+    ./a.out
+*/
     //    0
     //    / \
     //   1   2
